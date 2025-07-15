@@ -51,7 +51,7 @@ malvin({
     try {
         // Generate the formatted settings message with emojis
         const settingsMessage = `
-╭─❍〔 *LUCKY-XD SETTING* 〕❍─
+╭─❍〔 *THEDEVELOPER SETTING* 〕❍─
 ┊
 ┆ *📌 ᴄᴜʀʀᴇɴᴛ ᴄᴏɴғɪɢᴇʀᴀᴛɪᴏɴs:*
 ┆──────────────
@@ -75,7 +75,7 @@ ${generateSettingsList()}
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363420656466131@newsletter',
-                    newsletterName: "LUCKY-XD",
+                    newsletterName: "THEDEVELOPER",
                     serverMessageId: 143
                 }
             }
