@@ -47,10 +47,10 @@ malvin({
 
     const updateStatus = localVersion !== latestVersion
       ? `🔄 *Update Available!*\n👉 *Current:* ${localVersion}\n👉 *Latest:* ${latestVersion}\n\nUse *.update* to upgrade.`
-      : `✅ Your LUCKY-XD bot is up-to-date!`;
+      : `✅ Your THEDEVELOPER bot is up-to-date!`;
 
     const caption = `
-╭──〔 *LUCKY-XD STATUS* 〕─
+╭──〔 *THEDEVELOPER STATUS* 〕─
 
 🧑‍💻 ᴜsᴇʀ: *${pushname}*
 📍 ʜᴏsᴛ: *${hostname}*
@@ -70,8 +70,8 @@ malvin({
 📅 *Last Local Update:* ${lastUpdated}
 📜 *Changelog:* ${latestChangelog}
 
-📎 *Repo:* https://github.com/Tomilucky218/Lucky-XD2
-👑 *Owner:* https://github.com/Tomilucky218
+📎 *Repo:* https://github.com/kalifah0/Lucky-XD2
+👑 *Owner:* https://github.com/kalifah0
 
 ${updateStatus}
 `.trim();
@@ -85,7 +85,7 @@ ${updateStatus}
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363420656466131@newsletter',
-          newsletterName: 'LUCKY-XD',
+          newsletterName: 'THEDEVELOPER',
           serverMessageId: 143
         }
       }
