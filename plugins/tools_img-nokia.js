@@ -75,7 +75,7 @@ malvin({
 
     await conn.sendMessage(m.chat, {
       image: imageBuffer,
-      caption: `> *Powered By Hassan Tech Hub*`
+      caption: `> *Powered By Hasan Tech Hub*`
     });
 
   } catch (error) {
