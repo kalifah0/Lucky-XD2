@@ -1,5 +1,5 @@
 //---------------------------------------------
-//           MALVIN-XD  
+//           HASSAN  
 //---------------------------------------------
 //  ⚠️ DO NOT MODIFY THIS FILE OR REMOVE THIS CREDIT⚠️  
 //---------------------------------------------
@@ -1303,4 +1303,4 @@ malvin({
     }
 });
 
-//code by malvin king
+//code by king hassan
