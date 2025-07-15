@@ -39,7 +39,7 @@ ${truncatedCode}
 \`\`\`
 ╰──────────⊷  
 ⚡ Full file sent below 📂  
-> Powered By Lucky Tech Hub`;
+> Powered By Hassan Tech Hub`;
 
         // Send image with truncated source code
         await conn.sendMessage(from, { 
@@ -51,7 +51,7 @@ ${truncatedCode}
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363420656466131@newsletter',
-                    newsletterName: 'LUCKY-XD',
+                    newsletterName: 'THEDEVELOPER',
                     serverMessageId: 143
                 }
             }
