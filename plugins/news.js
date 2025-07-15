@@ -24,7 +24,7 @@ async (conn, mek, m, { from, reply }) => {
 ⚠️ _${article.description}_
 🔗 _${article.url}_
 
-> ©Powered By Lucky Tech Hub
+> ©Powered By Hassan Tech Hub
             `;
 
             console.log('Article URL:', article.urlToImage); // Log image URL for debugging
