@@ -56,14 +56,14 @@ malvin({
         `💬 *Cᴏᴍᴍᴇɴᴛs*: ${metrics.comment_count}\n` +
         `🔁 *Sʜᴀʀᴇs*: ${metrics.share_count}\n` +
         `📥 *Doᴡɴʟᴏᴀᴅs*: ${metrics.download_count}\n\n` +
-        `> © Powered By Lucky Tech Hub`,
+        `> © Powered By Hassan Tech Hub`,
       contextInfo: {
         mentionedJid: [m.sender],
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363420656466131@newsletter',
-          newsletterName: '『 LUCKY-XD 』',
+          newsletterName: '『 THEDEVELOPER 』',
           serverMessageId: 143
         }
       }
