@@ -22,7 +22,7 @@ async (conn, mek, m, { from, reply }) => {
 │ 🕰️ *Since:* ${startTime.toLocaleString()}
 │ 🧩 *Status:* Online & stable
 │
-╰─➤ ${config.DESCRIPTION || 'Bot Powered By Lucky Tech Hub.'}
+╰─➤ ${config.DESCRIPTION || 'Bot Powered By Hassan Tech Hub.'}
         `.trim();
 
         await conn.sendMessage(from, { 
