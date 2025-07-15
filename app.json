@@ -1,8 +1,8 @@
 {
-  "name": "THedeveloper",
+  "name": "THEDEVELOPER",
   "description": "Javascript WhatsApp bot made by Lucky Tech Hub",
   "logo": "https://files.catbox.moe/4itzeu.jpg",
-  "keywords": ["THedeveloper"],
+  "keywords": ["THEDEVELOPER"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "THedeveloper"
+      "value": "THEDEVELOPER"
     }, 
       
     "PREFIX": {
@@ -79,14 +79,14 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": false,
-      "value": "*SEEN YOUR STATUS BY THedeveloper ✨*"
+      "value": "*SEEN YOUR STATUS BY THEDEVELOPER ✨*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": true,
-      "value": "Hassan"
+      "value": "HASSAN"
 }, 
 
     "OWNER_NUMBER": {
@@ -99,7 +99,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": true,
-      "value": "THedeveloper"
+      "value": "THEDEVELOPER"
 
       }, 
 
