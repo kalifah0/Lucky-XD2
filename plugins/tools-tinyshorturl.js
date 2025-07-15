@@ -86,7 +86,7 @@ async function replyWithUrl(conn, from, longUrl, shortUrl, mek) {
 
 🔍*sʜᴏʀᴛᴇɴᴇᴅ ʟɪɴᴋ:* ${shortUrl}
 
-> Powered By Lucky Tech Hub`;
+> Powered By Hassan Tech Hub`;
 
   await conn.sendMessage(from, {
     image: { url: `https://files.catbox.moe/4itzeu.jpg` }, // Image URL
@@ -97,7 +97,7 @@ async function replyWithUrl(conn, from, longUrl, shortUrl, mek) {
       isForwarded: true,
       forwardedNewsletterMessageInfo: {
         newsletterJid: '120363420656466131@newsletter',
-        newsletterName: '『 LUCKY-XD 』',
+        newsletterName: '『 THEDEVELOPER 』',
         serverMessageId: 143
       }
     }
