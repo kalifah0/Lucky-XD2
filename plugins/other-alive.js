@@ -30,7 +30,7 @@ let des = `*👋 Hello ${pushname} I'm alive now*
 
 🌟 𝕋𝕪𝕡𝕖 .𝕞𝕖𝕟𝕦 𝕋𝕠 𝔾𝕖𝕥 𝔹𝕠𝕥 𝕌𝕤𝕖𝕣 𝕄𝕖𝕟𝕦
 
-> 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 - : © Lucky Tech Hub 2025
+> 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 - : © Hassan Tech Hub 2025
 `        
 await conn.sendMessage(
             from,
@@ -43,7 +43,7 @@ await conn.sendMessage(
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363420656466131@newsletter',
-                        newsletterName: 'LUCKY XD',
+                        newsletterName: 'THEDEVELOPER',
                         serverMessageId: 143
                     }
                 }
