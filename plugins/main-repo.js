@@ -31,14 +31,14 @@ async (conn, mek, m, { from, reply }) => {
 
         // Format the repository information
         const formattedInfo = `
-    🚀 LUCKY-XD REPO INFO 🚀
+    🚀 THEDEVELOPER REPO INFO 🚀
 
 ╭────────────━⊷
 ┊⭘
 ┊⭘ 🤖 *ɴᴀᴍᴇ:* ${repoData.name}
 ┊⭘ ⭐ *ᴛᴏᴛᴀʟ sᴛᴀʀs:* ${repoData.stargazers_count}
 ┊⭘ 👥️ *ᴅᴀɪʟʏ ᴜsᴇʀs:* ${repoData.forks_count}
-┊⭘ 👤 *ᴏᴡɴᴇʀ:* Lucky 218
+┊⭘ 👤 *ᴏᴡɴᴇʀ:* Hassan
 ┊⭘ 🪀 *ᴅᴇsᴄʀɪᴘᴛɪᴏɴ:* ${repoData.description || 'No description available'}
 
 > 🌟 Star & 🍴 Fork the repo for more updates!
@@ -57,7 +57,7 @@ async (conn, mek, m, { from, reply }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363420656466131@newsletter',
-                    newsletterName: 'LUCKY-XD REPO',
+                    newsletterName: 'THEDEVELOPER REPO',
                     serverMessageId: 143
                 }
             }
