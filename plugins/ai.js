@@ -4,17 +4,17 @@ const axios = require("axios");
 const { malvin } = require("../malvin");
 
 malvin({
-    pattern: "lucky",
-    alias: "lucky",
+    pattern: "hassan",
+    alias: "hassan",
     desc: "Interact with ChatGPT using the XD Api.",
     category: "ai",
     react: "🤖",
-    use: ".lucky <your query>",
+    use: ".hassan <your query>",
     filename: __filename,
 }, async (conn, mek, m, { from, args, q, reply }) => {
     try {
         // Vérification de l'entrée utilisateur
-        if (!q) return reply("⚠️ Please provide a query for Lucky Ai.\n\nExample:\n.lucky What is AI?");
+        if (!q) return reply("⚠️ Please provide a query for hassan Ai.\n\nExample:\n.hassan What is AI?");
 
         // Utilisation de `${text}` dans le endpoint API
         const text = q;  // Texte de la requête de l'utilisateur
@@ -37,7 +37,7 @@ malvin({
 
         // Vérification de la structure de la réponse
         if (!response || !response.data || !response.data.result) {
-            return reply("❌ No response received from the Lucky API. Please try again later.");
+            return reply("❌ No response received from the Hassan API. Please try again later.");
         }
 
         // Extraire uniquement le texte de la réponse (le prompt)
@@ -63,7 +63,7 @@ malvin({
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363420656466131@newsletter',
-                    newsletterName: '*LUCKY 𝐀𝐈*',
+                    newsletterName: '*HASSAN 𝐀𝐈*',
                     serverMessageId: 143
                 }
             }
