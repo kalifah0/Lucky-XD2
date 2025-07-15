@@ -58,14 +58,14 @@ malvin({
         caption: `📥 *ғɪʟᴇ ᴅᴇᴛᴀɪʟs* 📥\n\n` +
           `🔖 *Nᴀᴍᴇ*: ${fileName}\n` +
           `📏 *Sɪᴢᴇ*: ${fileSize}\n\n` +
-          `> © Powered By Lucky Tech Hub`,
+          `> © Powered By Hassan Tech Hub`,
         contextInfo: {
           mentionedJid: [m.sender],
           forwardingScore: 999,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
             newsletterJid: '120363420656466131@newsletter',
-            newsletterName: '『 ✦LUCKY-XD v3✦ 』',
+            newsletterName: '『 ✦THEDEVELOPER v3✦ 』',
             serverMessageId: 143
           }
         }
@@ -84,7 +84,7 @@ malvin({
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
             newsletterJid: '120363420656466131@newsletter',
-            newsletterName: '『 LUCKY-XD 』',
+            newsletterName: '『 THEDEVELOPER 』',
             serverMessageId: 143
           }
         }
@@ -105,7 +105,7 @@ malvin({
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
             newsletterJid: '120363420656466131@newsletter',
-            newsletterName: '『 LUCKY-XD 』',
+            newsletterName: '『 THEDEVELOPER 』',
             serverMessageId: 143
           }
         }
