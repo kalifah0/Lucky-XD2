@@ -1,8 +1,8 @@
 /*
-Project Name : LUCKY XMD
-Creator      : LUCKY 218 ( Mr Lucky 218)
-Repo         : https//github.com/Tomilucky218/Lucky-XD2
-Support      : wa.me/263714757857
+Project Name : THEDEVELOPER
+Creator      : HASSAN ( Mr HASSAN)
+Repo         : https//github.com/kalifah0/Lucky-XD2
+Support      : wa.me/2349139082130
 */
 
 
@@ -41,7 +41,7 @@ async (conn, mek, m, { from }) => {
         await conn.sendMessage(from, {
             image: { url: 'https://files.catbox.moe/4itzeu.jpg' }, // Image URL from your request
             caption: `
-╭┈┈❍ LUCKY XD ❍
+╭┈┈❍ THEDEVELOPER ❍
 ┊• *Here are the user details*
 ┊• *ɴᴀᴍᴇ* : ${ownerName}
 ┊• *ɴᴜᴍʙᴇʀ*: ${ownerNumber}
