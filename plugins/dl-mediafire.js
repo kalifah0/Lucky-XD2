@@ -54,14 +54,14 @@ malvin({
         caption: `📥 *File Details*\n\n` +
           `🔖 *Name*: ${filename}\n` +
           `📏 *Size*: ${size}\n\n` +
-          `> © Powered By Mr Lucky 218`,
+          `> © Powered By Mr Hassan`,
         contextInfo: {
           mentionedJid: [m.sender],
           forwardingScore: 999,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
             newsletterJid: '120363420656466131@newsletter',
-            newsletterName: '『 LUCKY-XD 』',
+            newsletterName: '『 THEDEVELOPER 』',
             serverMessageId: 143
           }
         }
@@ -73,14 +73,14 @@ malvin({
         caption: `📥 *File Details*\n\n` +
           `🔖 *Name*: ${filename}\n` +
           `📏 *Size*: ${size}\n\n` +
-          `> © Powered By Lucky Tech Hub`,
+          `> © Powered By Hassan Tech Hub`,
         contextInfo: {
           mentionedJid: [m.sender],
           forwardingScore: 999,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
             newsletterJid: '120363420656466131@newsletter',
-            newsletterName: '『 LUCKY-XD 』',
+            newsletterName: '『 THEDEVELOPER 』',
             serverMessageId: 143
           }
         }
@@ -94,14 +94,14 @@ malvin({
         caption: `📥 *File Details*\n\n` +
           `🔖 *Name*: ${filename}\n` +
           `📏 *Size*: ${size}\n\n` +
-          `> © Powered By Mr Lucky 218`,
+          `> © Powered By Mr Hassan`,
         contextInfo: {
           mentionedJid: [m.sender],
           forwardingScore: 999,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
             newsletterJid: '120363420656466131@newsletter',
-            newsletterName: '『 LUCKY-XD 』',
+            newsletterName: '『 THEDEVELOPER 』',
             serverMessageId: 143
           }
         }
@@ -175,7 +175,7 @@ malvin({
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363420656466131@newsletter',
-          newsletterName: '『 LUCKY-XD 』',
+          newsletterName: '『 THEDEVELOPER 』',
           serverMessageId: 143
         }
       }
