@@ -5,7 +5,7 @@ malvin({
     pattern: "pair",
     alias: ["getpair", "clonebot"],
     react: "✅",
-    desc: "Get pairing code for LUCKY-XD bot",
+    desc: "Get pairing code for THEDEVELOPER bot",
     category: "download",
     use: ".pair 256789966xxx",
     filename: __filename
@@ -27,7 +27,7 @@ malvin({
         }
 
         const pairingCode = response.data.code;
-        const doneMessage = "> *LUCKY-XD PAIRING COMPLETED*";
+        const doneMessage = "> *THEDEVELOPER PAIRING COMPLETED*";
 
         // Send initial message with formatting
         await reply(`${doneMessage}\n\n*Your pairing code is:* ${pairingCode}`);
