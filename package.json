@@ -1,8 +1,8 @@
 
 {
-  "name": "THedeveloper",
+  "name": "THEDEVELOPER",
   "version": "0.0.9",
-  "description": "A WhatsApp Bot Created By Hassan",
+  "description": "A WhatsApp Bot Created By HASSAN",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name LUCKY-XD",
