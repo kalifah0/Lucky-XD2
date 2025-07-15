@@ -23,21 +23,21 @@ async (conn, mek, m, { from, quoted, q, reply }) => {
         const videos = xv_list.result.slice(0, 30); // Limit to 30 results
 
         // Prepare the list
-        let listText = `╭━━━〔 *LUCKY-XD XVIDEO* 〕━━━┈⊷
+        let listText = `╭━━━〔 *THEDEVELOPER XVIDEO* 〕━━━┈⊷
 ┃▸╭───────────
 ┃▸┃๏ *XVIDEO SEARCH RESULTS*
 ┃▸└───────────···๏
 ╰────────────────┈⊷\n\n🔢 *Please reply with the number of your choice*\n\n`;
         videos.forEach((video, index) => {
             listText += `🔢│➪ *[REPLY NUMBER ${index + 1} ]*\n\n`;
-            listText += `┏━❮🔞 LUCKY-XD DETAILS 🔞❯━\n`;
+            listText += `┏━❮🔞 THEDEVELOPER DETAILS 🔞❯━\n`;
             listText += `┃📽️ *Title*: ${video.title}\n`;
             listText += `┃👁️ *Views*: ${video.views || 'N/A'}\n`;
             listText += `┃🔗 *URL*: ${video.url}\n`;
             listText += `┗━━━━━━━━━━━━━━𖣔𖣔\n\n`;
         });
         listText += `> *Please reply with the number of your choice*\n`;
-        listText += `> ㋛︎ Powered By Lucky Tech Hub`;
+        listText += `> ㋛︎ Powered By Hassan Tech Hub`;
 
         // Send the list
         const sentMsg = await conn.sendMessage(from, {
@@ -47,7 +47,7 @@ async (conn, mek, m, { from, quoted, q, reply }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterName: 'LUCKY-XD',
+                    newsletterName: 'THEDEVELOPER',
                     newsletterJid: "120363420656466131@newsletter",
                     serverMessageId: 999
                 }
@@ -82,7 +82,7 @@ async (conn, mek, m, { from, quoted, q, reply }) => {
                 }
 
                 // Details message
-                const desc = `╭━━━〔 *LUCKY-XD XVIDEO* 〕━━━┈⊷
+                const desc = `╭━━━〔 *THEDEVELOPER XVIDEO* 〕━━━┈⊷
 ┃▸╭───────────
 ┃▸┃๏ *XVIDEO DOWNLOADER*
 ┃▸└───────────···๯
@@ -97,7 +97,7 @@ async (conn, mek, m, { from, quoted, q, reply }) => {
 ┃◈┃•2 | Download as Document 📁
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
-> ㋛︎ Powered By Lucky Tech Hub`;
+> ㋛︎ Powered By Hassan Tech Hub`;
 
 
                 const optionMsg = await conn.sendMessage(from, {
@@ -107,7 +107,7 @@ async (conn, mek, m, { from, quoted, q, reply }) => {
                         forwardingScore: 999,
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
-                            newsletterName: 'LUCKY-XD',
+                            newsletterName: 'THEDEVELOPER',
                             newsletterJid: "120363420656466131@newsletter",
                             serverMessageId: 999
                         }
@@ -127,7 +127,7 @@ async (conn, mek, m, { from, quoted, q, reply }) => {
                     if (isReplyToOptMsg) {
                         await conn.sendMessage(from, { react: { text: '⬇️', key: optMek.key } });
 
-                        const caption = `🔞 *LUCKY-XD XVIDEO DOWNLOADER* 🔞\n\n📽️ *Title*: ${xv_info.result.title}\n> ㋛︎ Powered By Lucky Tech Hub`;
+                        const caption = `🔞 *THEDEVELOPER XVIDEO DOWNLOADER* 🔞\n\n📽️ *Title*: ${xv_info.result.title}\n> ㋛︎ Powered By Hassan Tech Hub`;
 
                         if (optType === '1') {
 
