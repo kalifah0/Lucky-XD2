@@ -49,7 +49,7 @@ malvin({
     await conn.newsletterReactMessage(channelMeta.id, messageId, emoji);
 
     return reply(
-`╭━━〔 *LUCKY-XD*⚡ 〕━⬣
+`╭━━〔 *THEDEVELOPER*⚡ 〕━⬣
 ┃✨ *Reaction sent successfully!*
 ┃📡 *Channel:* ${channelMeta.name}
 ┃💬 *Reaction:* ${emoji}
