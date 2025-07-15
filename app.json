@@ -1,8 +1,8 @@
 {
-  "name": "LUCKY-XD",
+  "name": "THedeveloper",
   "description": "Javascript WhatsApp bot made by Lucky Tech Hub",
   "logo": "https://files.catbox.moe/4itzeu.jpg",
-  "keywords": ["LUCKY-XD"],
+  "keywords": ["THedeveloper"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "LUCKY-XD"
+      "value": "THedeveloper"
     }, 
       
     "PREFIX": {
@@ -79,27 +79,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": false,
-      "value": "*SEEN YOUR STATUS BY LUCKY-XD ✨*"
+      "value": "*SEEN YOUR STATUS BY THedeveloper ✨*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": true,
-      "value": "Lucky 218"
+      "value": "Hassan"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": true,
-      "value": "256789966218"
+      "value": "2349139082130"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": true,
-      "value": "LUCKY-XD"
+      "value": "THedeveloper"
 
       }, 
 
@@ -138,7 +138,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": true,
-      "value": "*© Powered By Lucky Tech Hub"
+      "value": "*© Powered By Hassan Tech Hub"
     },
 
       "DELETE_LINKS": {
