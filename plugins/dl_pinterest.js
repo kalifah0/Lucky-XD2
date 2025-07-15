@@ -33,7 +33,7 @@ malvin({
 
         // Prepare the new message with the updated caption
         const desc = `
-╭━━━〔 *LUCKY-XD* 〕━┈⊷
+╭━━━〔 *THEDEVELOPER* 〕━┈⊷
 ┃▸╭───────────
 ┃▸┊๏ *ᴘɪɴs ᴅʟ*
 ┃▸╰───────────···๏
@@ -42,7 +42,7 @@ malvin({
 ┇๏ *ᴛɪᴛᴛʟᴇ* - ${title}
 ┇๏ *ᴍᴇᴅɪᴀ ᴛʏᴘᴇ* - ${media[0].type}
 ╰━━┈┈┈┈┈┈┈┈┈━⪼
-> *© Powered By Lucky Tech Hub*`;
+> *© Powered By Hassan Tech Hub*`;
 
         // Send the media (video or image) to the user
         if (videoUrl) {
