@@ -1,5 +1,5 @@
 {
-  "bot-name": "LUCKY-XD",
+  "bot-name": "THEDEVELOPER",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ Lucky 218",
   "logo": "https://files.catbox.moe/4itzeu.jpg",
   "keywords": ["bot"],
@@ -15,7 +15,7 @@
       "BOT_NAME": {
         "description": "write here your bot name.",
         "required": true,
-        "value": "LUCKY-XD"      
+        "value": "THEDEVELOPER"      
     },  
     "MODE": {
       "description": "Set private/public/inbox/groups",
@@ -32,12 +32,12 @@
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "LUCKY 218"
+      "value": "HASSAN"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "256789966218"
+      "value": "2349139082130"
     },
     
     "PRESENCE": {
