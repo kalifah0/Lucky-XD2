@@ -62,7 +62,7 @@ malvin({
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
               newsletterJid: '120363420656466131@newsletter',
-              newsletterName: '『 LUCKY-XD 』',
+              newsletterName: '『 THEDEVELOPER 』',
               serverMessageId: 143
             }
           }
@@ -76,7 +76,7 @@ malvin({
             `❤️ *Likes*: ${like}\n` +
             `💬 *Comments*: ${comment}\n` +
             `📝 *Caption*: ${caption || "No caption"}\n\n` +
-            `> © Powered By Mr Lucky 218`,
+            `> © Powered By Mr Hassan`,
           contextInfo: {
             mentionedJid: [m.sender],
             forwardingScore: 999,
@@ -164,7 +164,7 @@ malvin({
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363420656466131@newsletter',
-          newsletterName: '『 LUCKY-XD 』',
+          newsletterName: '『 THEDEVELOPER 』',
           serverMessageId: 143
         }
       }
