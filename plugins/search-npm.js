@@ -42,7 +42,7 @@ malvin({
 *🪩 REPOSITORY:* ${repository}
 *🔗 NPM URL:* ${npmUrl}
 
-> Powered By Lucky Tech Hub 
+> Powered By Hassan Tech Hub 
 `;
 
     // Send the message
