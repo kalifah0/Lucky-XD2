@@ -53,7 +53,7 @@ if (!groupAdmins.includes(senderJid) && senderJid !== botOwner) {
       }
     }
 
-    text += "└──✪ *LUCKY-XD BOT* ✪──";
+    text += "└──✪ *THEDEVELOPER BOT* ✪──";
 
     await conn.sendMessage(from, {
       text: text,
