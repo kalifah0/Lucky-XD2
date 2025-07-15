@@ -34,7 +34,7 @@ malvin({
 
     const { desc, thumb, video_sd, video_hd } = data.result;
 
-    const caption = `╭━━━〔 *LUCKY-XD TWITTER DL* 〕━━━⊷\n`
+    const caption = `╭━━━〔 *THEDEVELOPER TWITTER DL* 〕━━━⊷\n`
       + `┃▸ *Dᴜʀᴀᴛɪᴏɴ*: ${fbData.result.duration}\n`
       + `╰━━━⪼\n\n`
       + `🌐 *Download Options:*\n`
