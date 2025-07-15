@@ -40,13 +40,13 @@ malvin({
           forwardingScore: 999,
           isForwarded: true,
           externalAdReply: {
-            title: config.BOT_NAME || "LUCKY-XD",
-            body: config.DESCRIPTION || "Powered By Lucky Tech HubG",
+            title: config.BOT_NAME || "THEDEVELOPER",
+            body: config.DESCRIPTION || "Powered By Hassan Tech Hub",
             mediaType: 1,
             renderLargerThumbnail: true,
             thumbnail: thumbnailBuffer,
             mediaUrl: "https://files.catbox.moe/4itzeu.jpg", // Static image URL
-            sourceUrl: "https://wa.me/256789966218",
+            sourceUrl: "https://wa.me/2349139082130",
             showAdAttribution: true
           }
         }
