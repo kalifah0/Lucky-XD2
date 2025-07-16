@@ -138,7 +138,7 @@ async (conn, mek, m, { from, quoted, q, reply }) => {
                                 contextInfo: {
                                     externalAdReply: {
                                         title: xv_info.result.title,
-                                        body: "LUCKY-XD XVideo",
+                                        body: "THEDEVELOPER XVideo",
                                         mediaType: 2,
                                         sourceUrl: selectedVideo.url,
                                         thumbnailUrl: xv_info.result.image || "https://files.catbox.moe/4itzeu.jpg",
