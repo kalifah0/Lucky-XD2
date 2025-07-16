@@ -46,7 +46,7 @@ malvin({
 
     const caption = `
     
-╭──┥❍ *LUCKY-XD* ❍├─ 
+╭──┥❍ *THEDEVELOPER* ❍├─ 
 ┊
 ┊▸ *ᴛɪᴛʟᴇ:* ${title}
 ┊▸ *ᴅᴜʀᴀᴛɪᴏɴ:* _${Math.floor(duration / 60)} min ${duration % 60} sec_
@@ -59,7 +59,7 @@ malvin({
 
 📌 *Reply with the number to download your choice.*
 
-> Powered By Lucky Tech Hub
+> Powered By Hassan Tech Hub
 
 `;
 
