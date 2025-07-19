@@ -5,7 +5,7 @@
   "description": "A WhatsApp Bot Created By HASSAN",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name LUCKY-XD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name THEDEVELOPER",
     "stop": "pm2 stop THedeveloper",
     "restart": "pm2 restart THEDEVELOPER"
   },
