@@ -44,7 +44,7 @@ malvin({
 
         // Copy updated files, preserving config.js and app.json
         await reply("🔄 Replacing files...");
-        const sourcePath = path.join(extractPath, "LUCKY-XD-main");
+        const sourcePath = path.join(extractPath, "THEDEVELOPER-main");
         const destinationPath = path.join(__dirname, '..');
         copyFolderSync(sourcePath, destinationPath);
 
