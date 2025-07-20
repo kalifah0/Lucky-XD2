@@ -40,13 +40,13 @@ async (conn, mek, m, {
 📢 *Follow & Support THEDEVELOPER* ${readMore}
 
 🔔 *Official WhatsApp Channel*
-https://whatsapp.com/channel/0029Vb6rSz04yltQhAycK12U
+Https://whatsapp.com/channel/0029Vb6rSz04yltQhAycK12U
 
 🎬 *YouTube Channel*
-https://youtube.com/@Thedeveloper
+Https://youtube.com/@Thedeveloper
 
 👨‍💻 *Developer Contact*
-wa.me/2349139082130?text=Hi%20Lucky,%20I%20need%20support!
+Https://wa.me/+2349139082130?text=Hi%20Hassan,%20I%20need%20support!
 
 >💡Powered By Hassan Tech Hub
         `.trim();
