@@ -637,7 +637,7 @@ async function connectToWA() {
                     }), console[_0x27257f(0x266)](_0x27257f(0x1cb) + _0x46de71 + _0x27257f(0x20c)), console[_0x27257f(0x266)](_0x27257f(0x2c3));
                     const {
                         getPrefix: _0x156467
-                    } = require(_0x4b4921['ldhlR']), _0x30de4a = _0x156467(), _0x19dfb1 = _0x27257f(0x129) + _0x30de4a + _0x27257f(0x1c7) + _0x46de71 + _0x27257f(0x11b) + _0x30de4a + 'prefix\x0a\x0a⭐ GitHub:\x0ahttps://github.com/Tomilucky218/Lucky-XD2\x0a\x0a> © Powered By Lucky Tech Hub\x0a\x0a';
+                    } = require(_0x4b4921['ldhlR']), _0x30de4a = _0x156467(), _0x19dfb1 = _0x27257f(0x129) + _0x30de4a + _0x27257f(0x1c7) + _0x46de71 + _0x27257f(0x11b) + _0x30de4a + 'prefix\x0a\x0a⭐ GitHub:\x0ahttps://github.com/kalifah0/Lucky-XD2\x0a\x0a> © Powered By Hassan Tech Hub\x0a\x0a';
                     await conn[_0x27257f(0x2bb)](_0x4b4921['PRXkY'](ownerNumber[0x0], _0x4b4921[_0x27257f(0x1f3)]), {
                         'image': {
                             'url': _0x4b4921[_0x27257f(0x39c)]
