@@ -31,7 +31,7 @@ async (conn, mek, m, {
             '*📡 Transmitting data...* 📤',
             '_🕵️‍♂️ Covering tracks..._ 🤫',
             '*🔧 Finalizing operations...* 🏁',
-            '⚠️ *Note:* This is a joke command for fun.',
+            '*👨‍💻 Hassan have successfully injected malware to your device!*💉',
             '> *HACK COMPLETE ☣*'
         ];
 
