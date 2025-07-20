@@ -51,7 +51,7 @@ malvin({
         const ALIVE_IMG = 'https://files.catbox.moe/4itzeu.jpg'; // Remplacez par l'URL de votre image AI
 
         // Légende avec des informations formatées
-        const formattedInfo = `🤖 *Lucky's Response:*\n\n${gptResponse}`;
+        const formattedInfo = `🤖 *Hassan's Response:*\n\n${gptResponse}`;
 
         // Envoyer le message avec image et légende
         await conn.sendMessage(from, {
