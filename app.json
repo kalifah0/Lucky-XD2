@@ -35,8 +35,8 @@
     
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
-      "required": false,
-      "value": "false"  
+      "required": true,
+      "value": "true"  
     },    
   
     "AUTO_VOICE": {
@@ -47,8 +47,8 @@
 
     "AUTO_REPLY": {
       "description": "Make it true if you want automatic reply.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     }, 
 
     "AUTO_STICKER": {
@@ -60,8 +60,8 @@
 
     "AUTO_STATUS_SEEN": {
       "description": "Make it true for automatic status seen.",
-      "required": true,
-      "value": "true"
+      "required": false,
+      "value": "false"
     }, 
 
     "AUTO_STATUS_REACT": {
@@ -125,8 +125,8 @@
 
    "MENTION_REPLY": {
       "description": "make it true if want mention reply if someone menetion you.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
     
     "MENU_IMAGE_URL": {
